@@ -14,19 +14,19 @@ I'm a **Data & ML Engineer** passionate about building scalable data platforms, 
 
 ## 🌱 I’m currently learning:
 - Advanced MLOps & LLMOps: Production-grade model deployment on Kubernetes, CI/CD for ML (GitHub Actions, Argo, MLflow), observability (Prometheus, OpenTelemetry), and drift/quality monitoring at scale.
-​- Fine-tuning & serving open-source LLMs: Instruction-tuning and RAG with Mistral/Llama, efficient finetuning (LoRA, QLoRA), vector databases, and latency-aware serving on GPUs/accelerators.
-​- Real-time AI with streaming systems: End-to-end pipelines using Apache Kafka and Flink for low-latency feature stores, online inference, and feedback loops powering adaptive, real-time GenAI applications.
+- Fine-tuning & serving open-source LLMs: Instruction-tuning and RAG with Mistral/Llama, efficient finetuning (LoRA, QLoRA), vector databases, and latency-aware serving on GPUs/accelerators.
+- Real-time AI with streaming systems: End-to-end pipelines using Apache Kafka and Flink for low-latency feature stores, online inference, and feedback loops powering adaptive, real-time GenAI applications.
 
 
 ## 💞️ I’m looking to collaborate on:
 - AI-powered education platforms: Textbook generation, adaptive tutoring agents, & LLM-driven personalized learning
-​- ETL pipeline optimization & 2026 MLOps: Streaming (Kafka/Flink), scalable ML deployment, model monitoring at enterprise scale
+- ETL pipeline optimization & 2026 MLOps: Streaming (Kafka/Flink), scalable ML deployment, model monitoring at enterprise scale
 - AI video generation pipelines: Load-balanced GenAI video workflows (ComfyUI, AnimateDiff, LTX-Video) for production-scale content
 - Open-source agentic AI: Multi-agent systems, medical AI agents (HeAR audio diagnostics), LLM utilities for RAG/automation
 
 ## 🌟 Featured Projects:
- - AI-Powered Education Platform (MyEdMaster): Deployed LLM-based content personalization for 500+ users, boosting engagement via Python/TypeScript/AWS.
- ​- Slack Insight Bot (Metaphor Data): Built a vector search summarizer for 1K+ conversations, cutting retrieval time 30% with Hugging Face/MongoDB. 
+ - AI-Powered Education Platform (MyEdMaster): Deployed LLM-based content personalization for 500+ users, boosting engagement via Python/TypeScript/AWS
+ - Slack Insight Bot (Metaphor Data): Built a vector search summarizer for 1K+ conversations, cutting retrieval time 30% with Hugging Face/MongoDB. 
  - HeAR Disease Detection: Achieved 80% accuracy in heart/lung audio diagnostics using PyTorch. Open to collaborations!
 
 
