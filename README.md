@@ -24,7 +24,7 @@ I'm a **Data & ML Engineer** passionate about building scalable data platforms, 
 - AI video generation pipelines: Load-balanced GenAI video workflows (ComfyUI, AnimateDiff, LTX-Video) for production-scale content
 - Open-source agentic AI: Multi-agent systems, medical AI agents (HeAR audio diagnostics), LLM utilities for RAG/automation
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects:
  - AI-Powered Education Platform (MyEdMaster): Deployed LLM-based content personalization for 500+ users, boosting engagement via Python/TypeScript/AWS.
  ​- Slack Insight Bot (Metaphor Data): Built a vector search summarizer for 1K+ conversations, cutting retrieval time 30% with Hugging Face/MongoDB. 
  - HeAR Disease Detection: Achieved 80% accuracy in heart/lung audio diagnostics using PyTorch. Open to collaborations!
